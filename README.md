@@ -6,11 +6,12 @@ This app acts as a handy fitness tracker. Log and analyze your exercises and kee
 ## Table of Contents
 1. [Description](#Description)
 2. [Installation](#Installation)
-3. [Usage](#Usage)
-4. [License](#License)
-5. [Contributing](#Contributing)
-6. [Tests](#Tests)
-7. [Questions](#Questions)
+3. [Errors](#Errors)
+4. [Usage](#Usage)
+5. [License](#License)
+6. [Contributing](#Contributing)
+7. [Tests](#Tests)
+8. [Questions](#Questions)
 
 ## Installation
 Clone the repository using the link (https://github.com/sizyra/Fitness-Tracker.git), then use your CLI to run "npm install" and, when all dependencies are installed, run "node server.js" to start your server. Alternatively, use the deployed app on heroku with this link (https://fitnesstrackersz.herokuapp.com/).
