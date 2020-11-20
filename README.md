@@ -17,7 +17,7 @@ This app acts as a handy fitness tracker. Log and analyze your exercises and kee
 Clone the repository using the link (https://github.com/sizyra/Fitness-Tracker.git), then use your CLI to run "npm install" and, when all dependencies are installed, run "node server.js" to start your server. Alternatively, use the deployed app on heroku with this link (https://fitnesstrackersz.herokuapp.com/).
 
 ## Errors
-I unfortunately couldn't get my Mongo Atlas database to properly connect to my application, despite following the provided instructions as best I could.
+I unfortunately couldn't get my Mongo Atlas database to properly connect to my application, despite following the provided instructions as best I could. Screenshots of the relevant pages can be found in the additionalImages folder of this repository.
 
 ## Usage
 Once you've got the app running, your only option should be to click a button that says "Add a workout!" Select this and enter the workouts you've completed, either Cardio or Resistance. You can enter multiple workouts by clicking "Add Exercise" once all information is entered. 
